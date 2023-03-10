@@ -1,2 +1,2 @@
 # finanzas
-Abarca la macro, micro e historia economíca
+Abarca la macro, micro, matemáticas e historia económica.
