@@ -208,7 +208,7 @@
 
 		Feudalismo:
 
-			En la economía del siglo XVIII (1701-1800), cada territorio feudal producia su propio alimento y los intercambios o comercio entre ellos, eran escasos.
+			En la economía, cada territorio feudal producia su propio alimento y los intercambios o comercio entre ellos, eran escasos.
 
 			La Iglesia Católica surgío como aglutinadora espiritual e impulso su cosmovisión en medio de la desintegración territorial.
 
@@ -222,7 +222,67 @@
 
 		Fin de la economía escolástica:
 
+			Antes del descubrimiento de América y expropiación de la riqueza de metales, se produjo una serie de hechos e innovaciones que sentaron las bases para el auje de económico en Europa.
+
+			Las nuevas técnicas de agricultura permitían a los señores feudales tener excedentes de producción, pero necesitaban venderlos. 
+
+			Los mercaderes o comerciantes colocaban estos productos en los mercados dado sus conocimientos en el comercio.
+			Gracias a esta intermediació, acumularon capital y empezaron a darle credito a los señores feudales o reyes para que cubran sus gastos militares y de gobierno.
 			
+			Así formaron los primero bancos privados y reforzaron su posición de riqueza y poder en la antigua Europa.
+
+			En el aspecto de la teoría económica, en las cortes de los nobles, los consejeros y ministros recomendaban a su señor que acumulara metales preciosos.
+
+
+
+	Edad moderna y post conquista de America (1500-1750):
+
+		Europa se inundo de metales preciosos, lo que permitio una gran circulación de la moneda y del crédito. Sucedieron innovaciones como la imprenta, la plóvora, el astrolabio (instrumento astronómico), la brújula y otros inventos.
+
+		La iglesia se dividio y surgío el protestantismo (1500) que se explandió de la mano de Juan Calvino (1509-1549), su teoría era que cada ser humano tenía una misión que cumplir y que el trabajo duro asegurará la salvación del alma.
+
+		Alimentó el individualismo y el afán de lugro, algo esencial en el capitalismo.
+
+
+		Mercantilistas:
+
+			El nuevo orden económico contaba con la organización política moderna del Estado-Nación, gobernada por los nobles.
+
+			La economía era impulsada por los burgueses (comerciantes, artesanos, banqueros) dadas las condiciones y posibilidades para comerciar, producir nuevos productos e innovaciones tecnológicas.
+
+			Los mercantilistas pensaban que el Estado debia dirigir la economía fomentando las exportaciones y prohibiendo las importaciones, de modo que el oro no saliese e ingrese al Estado.
+
+			Decian que los metales no eran la riqueza en sí, que debia de existir la producción de bienes. En cuanto al comercio internacional, era la fuente de recursos para el Estado, se debía proteger y defender la producción local sobre la extranjera.
+
+
+		La base de la globalización:
+
+			Hacia fines del siglo XIV (1400), se produjo una aceleración de la productividad: la cantidad de bienes y servicios que producia la nación.
+
+			Esto sentó las bases del poderío de industriales y mercaderes que derivo en inventos y mejoras en los metodos de producción, considerandose la primera ola de globalización.
+
+			Por ese entonces, el comercio internacional pasaba por el mar. Los reyes entendían que debían dominar el mar para dominar el comercio mundial y proteger su económia.
+
+			Para esto necesitaban financiar su flota naval, lo hacían con impuesto y crédito.
+
+			Por otro lado, los burgueses entendian que los Estados se hacian fuertes gracias a ellos, empezaron a reclamar los derechos publicos como los que tenía la nobleza. Durante el siglo XVII solo hubo cuatro años de paz.
+
+
+		El mercantilismo (1300-1700):
+
+			El termino en economía política fue impuesto por Antoine de Montchrestien (1575-1621). William petty (1623-1687) ensayo que el comercio daba más riqueza que la industria y esta más que la agricultura y que el Estado debía favorecer una sobre otras.
+
+			Según los mercantilistas, la agricultura solo servía para consumo interno y no para exportar. Los impuestos debían estar donde estaba la industria y el comercio, o sea, en las ciudades. Ahí es donde se concentraba la mayoría de la población.
+
+			
+			Mercantilimo frances:
+
+
+
+
+
+
+
 
 
 
