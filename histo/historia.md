@@ -252,7 +252,13 @@
 
 			Los mercantilistas pensaban que el Estado debia dirigir la economía fomentando las exportaciones y prohibiendo las importaciones, de modo que el oro no saliese e ingrese al Estado.
 
-			Decian que los metales no eran la riqueza en sí, que debia de existir la producción de bienes. En cuanto al comercio internacional, era la fuente de recursos para el Estado, se debía proteger y defender la producción local sobre la extranjera.
+			Decian que los metales no eran la riqueza en sí, que debia de existir la producción de bienes o manofactura con valor agregado, usando la materia prima de la agricultura.
+
+			En cuanto al comercio internacional, era la fuente de recursos para el Estado, se debía proteger y defender la producción local sobre la extranjera. 
+
+			Solo se podía proveer de materia prima para despues agregarle valor y sacar la diferencia al venderla. Si un producto estaba en la economía local, no debía importarse, aunque fuese más caro.
+
+			Los servicios no se tenían muy en cuenta.
 
 
 		La base de la globalización:
@@ -277,11 +283,36 @@
 			
 			Mercantilimo frances:
 
+				Jean Baptiste Colbert (1619-1683) asesor del rey de Francia, Luis XIV (1638-1715). Reformo el sistema económico de Francia, creando una flota mercante para agilizar el comercio exportador y competir contra Holanda. Impulso empresas estatales de manofactura, gravo las importaciones para favorecer la industria local. 
+
+				Los productos competían en el mercado local a base de aumentar el precio de los bienes extranjeros y viceversa. 
+
+
+		Fisiocratas:
+
+			Surgió en Francia debido al agotamiento de las políticas mercantilistas aplicadas por Luis XIV y Luis XV, se transformó en una económia que ahogaba a los burgueses (comerciantes, agricultores, artesanos, banqueros) con regulaciones e impuestos.
+
+			Francois Quesnay (1694-1774) era un fisico asesor de Luis XV, aplicó el principio de circulación sanguínea para explicar la circulación de bienes: toda la sociedad se beneficia de la riqueza o producción del campo y castigarlos no tiene sentido.  
+
+			Inventó la tabla económica en la que dividia a la sociedad en tres sectores, no solo en burgueses: propietarios de la tierra (aristócratas, alto clero), trabajadores estériles (artesanos, mercaderes), y trabajadores productivos (agricultores, ganaderos, pescadores).
+
+			Según él, la naturaleza regía los destinos de la económia <<"La única ley económica es la lay natural">>, por lo tanto, la intervención estatal era perjudicial.
+
+
+		Laissez faire-laissez passer:
+
+			Anne Robert Jacques Turgot (1727-1781) consejero y ministor de marina de Luis XVI, aplicó los principios fisiocráticos de no intervención estatal.
 
 
 
 
+		Adam Smith:
 
+
+
+			Critica al mercantilismo por no reconocer los beneficios mutuos que existen en la especialización y el comercio internacional. 
+
+			La riqueza es la cantidad de bienes que puede comprar el oro y no acumular oro en sí. La oferta de oro debe equipararse a la oferta de biens.
 
 
 
