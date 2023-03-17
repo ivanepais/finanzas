@@ -299,9 +299,42 @@
 			Según él, la naturaleza regía los destinos de la económia <<"La única ley económica es la lay natural">>, por lo tanto, la intervención estatal era perjudicial.
 
 
-		Laissez faire-laissez passer:
+			Laissez faire-laissez passer:
 
-			Anne Robert Jacques Turgot (1727-1781) consejero y ministor de marina de Luis XVI, aplicó los principios fisiocráticos de no intervención estatal.
+				Anne Robert Jacques Turgot (1727-1781) consejero y ministor de marina de Luis XVI, aplicó los principios fisiocráticos de no intervención estatal.
+
+				Dejar hacer tiene sentido para que productores no tengan regulaciones estatales o corporativas. Dejar pasar cobra sentido que los productos fluyen libremente por el mercado local e internacional. Los precios los fijará el mercado.
+
+				Los impuestos se establecian sobre la clase productiva (agricultores) y liberaban a la clase esteril (terratenientes, industriales, comerciantes).
+
+
+			Renta nacional:
+
+				Se analizaba el flujo de la riqueza, es la remuneración total de los factores productivos en el país.
+
+				Se comenzó a establecer categorias teóricas para el Estado-Nación, dado que los limites geográficos y políticos son indispensables para capitalismo.
+
+
+	Primera Revolución industrial (1760-1840):
+
+		Se dió en un contexto de gran transformación en donde se desartículo los gremios de artesanos, la expansión del comercio de ultramar, la liberación de la economía; devolvió el espiritu emprendedor en la sociedad. 
+
+		Las fábricas de la revolucón industrial, la creación de los mercados de capitales, de mercancias, de tierras, del trabajo, junto con la división del trabajo y la movilidad social del campo a las ciudades; consolidarón al capitalismo.
+
+
+		Capitalismo y economía clasica:
+
+			La posibilidad para crear una multitud de mercados dió lugar a una expansión de riqueza impensada y también muchos problemas para su comprensión.
+
+			Mercado de Capitales:
+
+
+			Mercado de Trabajo:
+
+
+			
+
+
 
 
 
