@@ -244,7 +244,7 @@
 		Alimentó el individualismo y el afán de lugro, algo esencial en el capitalismo.
 
 
-		Mercantilistas:
+		Los Mercantilistas:
 
 			El nuevo orden económico contaba con la organización política moderna del Estado-Nación, gobernada por los nobles.
 
@@ -288,7 +288,7 @@
 				Los productos competían en el mercado local a base de aumentar el precio de los bienes extranjeros y viceversa. 
 
 
-		Fisiocratas:
+		Los Fisíocratas:
 
 			Surgió en Francia debido al agotamiento de las políticas mercantilistas aplicadas por Luis XIV y Luis XV, se transformó en una económia que ahogaba a los burgueses (comerciantes, agricultores, artesanos, banqueros) con regulaciones e impuestos.
 
@@ -322,30 +322,101 @@
 		Las fábricas de la revolucón industrial, la creación de los mercados de capitales, de mercancias, de tierras, del trabajo, junto con la división del trabajo y la movilidad social del campo a las ciudades; consolidarón al capitalismo.
 
 
-		Capitalismo y economía clasica:
+		Capitalismo y economía clásica:
 
-			La posibilidad para crear una multitud de mercados dió lugar a una expansión de riqueza impensada y también muchos problemas para su comprensión.
+			La posibilidad para crear una multitud de mercados dió lugar a una expansión de riqueza impensada y también muchos problemas para su comprensión. 
+
+			Requirió dar explicaciones teóricas, en este contexto se destacaba la economía clásica que usaba conceptos matemáticos, de física y química para dar razonamientos científicos.
 
 			Mercado de Capitales:
 
+				Londres como centro financiero, se creo con la acumulación de riqueza extraída de America, se puso al servicio de la expansión economica. 
+
+			Mercado de Tierras:
+
+				Se generó gracias a la revalorización (muchos campesinos fueron expropiados), su explotación era para el comercio mundial de lana, carbón, granos, hierros.
+
+			Mercado de Productos: 
+
+				Creció y se expandió como nunca antes en la historia.
 
 			Mercado de Trabajo:
 
-
-			
-
+				Creo una relación de asalariado entre capitalistas y trabajadores.
 
 
+		Adam Smith (1723-1790):
 
+			Estudiaba las cosas por separado y luego lo integraba en una síntesis. Bajo la influencia de la ilustración, la visión del mundo en su epoca; tuvo un sesgo indivudualista, dónde primordiaba el orden natural de las cosas y el razonamiento científico. Su teoría se centra en la división del trabajo.		
 
-
-		Adam Smith:
-
-
+			En las fábricas, en cada paso o tarea en el proceso productivo habia un operario (antes todo el proceso lo hacia el artesano). Esto simplificaba el trabajo y aumentaba la productividad.
 
 			Critica al mercantilismo por no reconocer los beneficios mutuos que existen en la especialización y el comercio internacional. 
 
 			La riqueza es la cantidad de bienes que puede comprar el oro y no acumular oro en sí. La oferta de oro debe equipararse a la oferta de biens.
+
+
+		La ilustración (1750-1900): 
+
+			<<"Una abeja hace un hexagono, sin saber que construye, junto a otras un panal">> 
+
+			Esta analógia puede resumir el concepto principal de este movimiento: "El orden natural guía al hombre aunque no sepan el resultado final de sus acciones". Le cabe perfectamente a la mano invisible del mercado.
+
+			Para que pudiera realizarse, se necesita un ambiente de libertad, sin la intervención del gobierno.
+
+			En política, Thomas Hobbes (1588-1676), John Locke (1632-1704) y Jean j. Rousseau (1712-1778) dió legitimidad al mundo burgués y al surgimiento del Estados-Nación.
+
+
+		Liberalismo económico: 
+
+			Para Adam Smith, cada individuo que sigue su beneficio personal (máxima ganancia en su actividad) estaría haciendo un bien (sin proponérselo) a la sociedad.
+
+			Las máximas de Smith son el paradigma del liberalismo económico: 
+
+				"La librecompetencia es el ambito ideal para que cada ser humano pueda seguir su propio fin."
+
+				"La división del trabjo asegura el crecimiento económico y la máxima productividad. Propone una división social entre el obrero y el capitalista."
+
+				"El salario es la paga al obrero, el beneficio es la ganancia del capitalista y la renta es la que obtienen los dueños cedida para su explotación."
+
+				"La cantidad de trabajo necesaria para producir una mercaderia, determina su valor. Pero el precio está determinado por su oferta y demanda."
+
+				"El valor de uso, depende de la utilidad del objeto. El valor de cambio, depende de la capacidad de comprar otros objetos."
+
+				"La naturaleza del hombre es egoísta y está inclinado al intercambio, esto se vuelca al mercado, que se autoregula."
+
+				"Si el mercado impera, termina con las ordenes de la nobleza y la movilidad social dínamica, termina con la sociedad estatica."
+
+				"El origen de la riqueza es el trabajo y el ahorro es la base para su expansión. La acumulación de beneficios (capitalistas y rentistas), lleban al progreso de la sociedad; siempre que el ahorro se destine a la producción."
+
+
+		Revolución Francesa (1789): 
+
+			Fue el triunfo de burguesía sobre el orden monárquico.
+			Produjo muchos cambios en muchos ordenes de la sociedad.
+
+
+
+
+		Conflictos: 
+
+			El salario de los obreros era una fuente inagotable de conflicos, cada vez había más desigualdad entre ellos y los capitalistas (como señaló Smith). 
+
+			Cuanto más rapido se producía, la productividad aumenta. Y se pagan salario bajos, aumenta la acumulación capitalista que es lo que hace crecer la economía.
+
+			Según los clasicos, a mayor productividad dada por la tecnología (maquinas a vapor) aumentarían los sueldos y los puestos de trabajo.
+
+			Pero aparecieron las maquinas a vapor, para imponer un ritmo al trabajo, facilitando el proceso de producción, requiriendo menos puestos de trabajo.
+
+			La teoría podría salvarse al decir que, al aumentar la oferta de productos, bajarían los precios y se produciría una virtual subida de salarios o que creceran puestos de trabajo en otras partes de la economía o que el progreso es inevitable.
+
+			Son cosas dificiles de ver en la realidad y las condiciones sociales de la revolución industrial mostraban otra cosa, no había tiempo para ver que pasaba. 
+
+			El conflico social fue en aumento y terminaría de explotar con una teoría completamente opuesta al liberalismo, con tal vez, conseguencias mucho más grave que la perdida de puestos de trabajo.
+
+			Como lo fue el comunismo en su variante más extrema o socialismo, con reclamos validos. Aunque son el paso del tiempo se fue moderando, llegando a una sociedad más equilibrada.
+
+
 
 
 
