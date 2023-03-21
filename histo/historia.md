@@ -87,11 +87,19 @@
 
 
 
+	Hiperinflación:
 
-	Ciclo economíco:
+		Se origina en un deficit de gasto público que hace al Estado insolvente (no puede pagar sus gasto y deudas). Si se queda sin financiamiento puede desencadenarse, pero la decisión final la tiene las personas; si repudian o no la moneda.
+
+
+
+	Ciclo económico:
 
 		El estado puede controlar la economía calentando (para incentivar la inversion) o enfriandola (para frenar la infĺación) a través de medidas economícas: sociales, financieras, tributarias, estructurales, etc.
 
+
+
+	Estanflación:
 
 
 
@@ -117,11 +125,11 @@
 		En 1759, el Banco de Inglaterra comenzó a emitir billetes
 		con denominación fija oficialmente. En 1853, los primeros billetes enteramente impresos, sin el nombre del beneficiario ni la firma de los cajeros emisores.
 
-		Estaban atados al valor de los metales preciosos << plata y oro >>, el patrón oro. Los papeles eran convertibles por oro; sin embargo, en las reservas de los bancos no solían estar respaldados en su totalidad.
+		Estaban atados al valor de los metales preciosos <<plata y oro>>, el patrón oro. Los papeles eran convertibles por oro; sin embargo, en las reservas de los bancos no solían estar respaldados en su totalidad.
 
 		El sistema empezo en 1717, adoptado por Isaac Newton que estaba a la cabeza del Royal Mint o Casa de la Moneda. 
 
-		En relación a los creditos bancarios, poca gente tenía acceso, a pesar de usar y ahorra billetes esos convertibles. 
+		En relación a los creditos bancarios, poca gente tenía acceso, a pesar de usar y ahorrar en esos billetes convertibles. 
 
 		Los mercados de valores, donde las empresas se financian y fortalecen a trevés de la compra y venta de acciones, existían; pero pocas empresas emitían acciones. La mayoría seguían como sociedades anomimas privadas.
 
@@ -408,7 +416,7 @@
 
 			Pero aparecieron las maquinas a vapor, para imponer un ritmo al trabajo, facilitando el proceso de producción, requiriendo menos puestos de trabajo.
 
-			La teoría podría salvarse al decir que, al aumentar la oferta de productos, bajarían los precios y se produciría una virtual subida de salarios o que creceran puestos de trabajo en otras partes de la economía o que el progreso es inevitable.
+			La teoría podría salvarse al decir que, al aumentar la oferta de productos, bajarían los precios y se produciría una virtual subida de salarios o que al aumentar la demanda no debería perderse puestos de trabajo, baja de salarios o que creceran puestos de trabajo en otras partes de la economía o que el progreso es inevitable.
 
 			Son cosas dificiles de ver en la realidad y las condiciones sociales de la revolución industrial mostraban otra cosa, no había tiempo para ver que pasaba. 
 

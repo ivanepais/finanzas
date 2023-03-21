@@ -12,7 +12,7 @@
 
 	Nueva economía clásica: 
 
-		Se centra en el analísis del comportamiento humano para deducir comportamientos macroeconómicos, pueden usar las matemáticas. Desde Mises, Friedman hasta Becker y nuevos teorícos parecidos.  
+		Se centra en el analísis del comportamiento humano para deducir comportamientos macroeconómicos, pueden usar las matemáticas. Desde Mises, Friedman hasta Becker y nuevos teóricos parecidos.  
 
 
 
@@ -70,7 +70,6 @@
 			7. Acto de voluntad: 
 
 				Mobilizarse y sobrepasar un montón de obstaculos, situaciones para conseguir el objetivo.
-
 
 			8. Tiempo: 
 
@@ -134,7 +133,6 @@
 
 					El tiempo subjetivo que tiene la sociedad no es matematizable con t1, t2, t3; estos modelos son determinista y que el futuro está implícito y no por hacer.
 
-
 			9. Coste: 
 
 				Valor subjetivo que el actor da al fin al que tiene que renunciar cuando decide utilizar los medios a su disposición para lograr otro fin que valora más.
@@ -158,6 +156,166 @@
 				El capitalismo permite el cálculo económico gracias a los precios de mercado.
 
 
-	Función empresarial:
 
-		
+	Conceptos de la función empresarial:
+
+		Racionalidad:
+
+			Es la acción que se lleva a cabo disponiendo de la información necesaria para culminarla. 
+
+			Actuamos siempre racionalmente emprendiendo aquellas acciones con las que pensamos que obtendremos un beneficio empresarial.
+
+			Si no obtenemos beneficios, hemos cometido un error empresarial puro.
+
+			La teoría económica es objetiva (aunque abarque conceptos subjetivos), dado que se puede aplicar a cualquier tipo de acción humana.
+
+		Perspicacia y especulación:
+
+			Es la capacidad natural para darse cuenta de las oportunidades de beneficio en un entorno y actuar en consecuencia.
+
+			Significa crear en nuestra mente una idea que antes no estaba.
+
+			En tanto la especulación, se para tratar de ver las cosas con mucha antelación. 
+
+			En un mercado podemos anticiparnos a los deseos que tendrán los consumidores en el futuro.
+
+		Historiador:
+
+			Es la habilidad de interpretar las cosas tales como sucedieron, para seleccionar los hechos relevantes del pasado y plasmarlos adecuadamente en el futuro.
+
+		Información: 
+
+			Cuando se descubre una oportunidad de beneficio crea en su mente nueva información que antes no tenía. 
+
+			Los nuevos fines y medios suponen una modificación del conocimiento que nos da esta nueva información.
+
+
+		Conocimiento empresarial:
+
+			1. Es subjetivo de tipo práctico, no científico.
+
+				No puede ser representado de una manera formal. El sujeto lo va adquiriendo sobre la práctica.
+
+				La economía es un conocimiento científico (formalizado, centralizado, articulado) sobre los procesos de creación y transmisión del conocimiento empresarial (subjetivo, práctico, disperso, tácito).
+
+
+			2. Es privativo, está disperso en la mente.
+
+				Cada ser humano, al actuar en busca de sus fines particulares dentro de unas circunstancias históricas irrepetibles, genera en su mente una información distinta a la de cualquier otro.
+
+				La información que los seres humanos generamos sobre fines y medios está descoordinada en la mayoría de los casos.
+
+				El proceso de mercado favorece la creatividad empresarial y, de forma espontánea, tiende a detectar y a coordinar los comportamientos desajustados.
+
+					A persigue el fin X, para lo que necesita el recurso R del que carece.
+					
+					B persigue el fin Y y dispone del recurso R, que no considera de utilidad para lograr su fin.
+
+				Desajuste o descoordinación: una persona tiene un recurso que no aprovecha mientras que otra que lo necesita no dispone de él.
+
+				El mercado ayuda a coordinar los desajustes sociales.
+
+
+			3. No es articulable, ni formalizable. Es tácito. Es de eventos únicos.	
+
+				aprende cómo realizar determinadas acciones ( know how ), adquiere determinados hábitos prácticos de conducta; pero sin llegar a conocer el fundamento científico de cada elemento de su acción (know that).
+
+				El conocimiento articulado, utilizado empresarialmente, ayuda a potenciar la capacidad de crear conocimiento tácito no articulable, que es el importante de cara a conseguir nuestros fines.
+
+				Las instituciones son fundamentales para el funcionamiento del mercado porque reducen la incertidumbre de los agentes económicos.
+
+				Surgen evolutivamente a través de las interacciones de millones de seres humanos, se componen de conocimiento tácito no articulable.
+
+
+			4. Se crea de la nada, mediante el ejercicio de la actividad empresarial.
+
+				No exige medio alguno para ser ejercitada. Es decir, la empresarialidad no supone coste, es creativa. 
+
+				Da lugar a unos beneficios que, en cierto sentido, surgen de la nada
+
+				Basta darse cuenta de la situación de desajuste entre A y B.
+
+				El ánimo de lucro impulsa a los seres humanos, al buscar el beneficio, a detectar y eliminar desajustes sociales.
+
+				El acto empresarial es creativo (descubre el desajuste) y coordinador (lo elimina).
+
+				El buen funcionamiento del proceso de cooperación social requiere del respeto a la libre apropiación del fruto de la empresarialidad.
+
+				Los precios ilustran a los productores acerca de qué, cómo y cuánto debe ser producido.
+
+
+			5. Es transmisible a través de la interacción social. La función empresarial es el objeto de estudio de la ciencia económica.
+
+				Efectos sobre los agentes económicos:
+
+					1. Creación de información:
+
+						La función empresarial crea en la mente del actor, y de la nada, una información que antes no existía:
+						
+						– C descubre la posibilidad de ganancia latente en el desajuste.
+
+
+					2. Transmisión de información:
+
+						Hacer que otra persona cree en su mente una información que antes no tenía.
+
+						– B descubre que su recurso es valioso y debe guardarlo.
+						
+						– A descubre que puede conseguir su fin X porque el recurso que necesita está disponible.
+
+
+					3. Coordinación:
+
+						A y B aprenden, de forma espontánea y sin necesidad de conocerse, que consiguen mejor sus fines si cada uno disciplina su comportamiento en función del otro.
+
+				No podemos ser conscientes de todo lo que dejamos de crear debido a las restricciones a la empresarialidad y como afecta espiritualmente a los individuos.
+
+
+		Conocimiento cientifico:
+			
+			1. Es cientifico o técnico
+
+			2. Es centralizado 
+
+			3. Es Articulado
+
+			4. Es de clase.
+
+
+		Competencia:
+
+
+
+
+		División del Conocimiento:
+
+
+
+
+		Sociedad:
+
+
+
+	
+	Criticas: 
+
+
+
+
+
+
+	Ciencia Económica:
+
+		Útilidad Marginal:
+
+			
+
+
+
+
+
+
+
+
+
+
